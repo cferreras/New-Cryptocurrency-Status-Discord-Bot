@@ -1,5 +1,7 @@
 Forked Beacause I lost access to my old account.
 
+Feel free to suggest new changes!
+
 # Cryptocurrency Price Status Discord Bot
 
 This bot will update its status message with the current price of the desired cryptocurrency.
