@@ -1,4 +1,4 @@
-New version beacause I lost access to my old account.
+# New version beacause I lost access to my old account.
 
 Feel free to suggest new changes!
 
